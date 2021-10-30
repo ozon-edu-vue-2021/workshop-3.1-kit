@@ -1,0 +1,18 @@
+:root {
+    --white: #ffffff;
+    --blue: #005bff;
+    --blueHover: #003ead;
+    --green: #10ad44;
+    --greenHover: #2d9d5c;
+    --red: #f91155;
+    --redHover: #a70031;
+    --grayLight: #eff3f6;
+    --gray: #b3bcc5;
+    --grayDark: #5a6c7d;
+    --grayDeepDark: #1a334e;
+    --black: #001a34;
+
+    --transition: 0.2s ease-in;
+    --radius: 6px;
+    --font-family: Avenir, Helvetica, Arial, sans-serif;
+}

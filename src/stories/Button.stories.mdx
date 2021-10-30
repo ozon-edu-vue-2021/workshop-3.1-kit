@@ -1,0 +1,15 @@
+import "../assets/variables.css"
+import { Meta, Story } from '@storybook/addon-docs';
+
+import MyButton from '../components/Button.vue';
+
+<Meta title="Components/Button/xnxnx/gfgfd" component={MyButton}/>
+
+<Story name="Primary">
+  {() => {
+    return {
+      components: { MyButton },
+      template: `<MyButton text="Кнопка" type="button"  />`,
+    };
+  }}
+</Story>
